@@ -1,12 +1,25 @@
-- 👋 Hi, I’m @SwordWeapon my name is Matheus, i'm br.
-I'm 25 years old, i have higher education in physical education, but I've always had a strong interest in programming and bodybuilding.
-However, decide to migrate to the programming area as you will experience greater opportunities.
-- 👀 I’m interested in area of ​​technology
-- 🌱 I’m currently studying front-end/back
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me matheuscarmofeliciano@gmail.com
+👋 Hi, I’m @SwordWeapon, but you can call me Matheus!
+📍 Brazilian | 25 years old | Career changer
 
-Em breve postarei alguns projetos.
+🎓 Background: I have a degree in Physical Education, but my passion for technology inspired me to transition into the field of Software Quality Assurance.
+
+👀 Interests:
+
+Software Testing (manual and automated)
+Continuous learning in QA tools and best practices
+Collaboration in agile environments
+🌱 Currently Learning:
+
+Advanced testing techniques using Cypress and Postman
+Best practices for ensuring software quality
+QA processes aligned with DevOps culture
+💼 Looking to Collaborate:
+
+On projects that require a detailed eye for quality and a passion for delivering reliable software
+📫 How to Reach Me:
+
+Email: matheuscarmofeliciano@gmail.com
+LinkedIn: https://www.linkedin.com/in/mthqa/
 
 <!---
 SwordWeapon/SwordWeapon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
